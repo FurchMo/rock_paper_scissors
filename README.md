@@ -35,4 +35,6 @@ A console-based Rock-Paper-Scissors game built as a C++ practice project. Play a
     ```bash
     ./output/main
     ```
+    
+I know that the history can get larger than the console window, and that it will then print a bit weird. I'm just too lazy to fix it.
 
